@@ -1,6 +1,5 @@
 !!! 💢 Read Alert
-
-- 👋 Hi, I’m @aryanjha256 (ARYAN KUMAR JHA)<sup>💖</sup>.
+<h1 align="center">Hola 👋, I'm Aryan Kumar Jha</h1>
 - 👀 I’m interested in Game Development.
 - 🌱 I’m currently learning Artificial Intelligence.
 - 💞️ I’m looking to collaborate on making games.
