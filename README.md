@@ -7,7 +7,3 @@
   <li>📫 You can reach me on my email "aryanjha256@gmail.com" for collaborations.</li>
 </ul
 !!! 💢 This repository is just to introduce myself.
-<!---
-aryanjha256/aryanjha256 is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-This repository is just to introduce myself...
---->
