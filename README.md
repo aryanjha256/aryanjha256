@@ -1,9 +1,9 @@
 !!! 💢 Read Alert
-<!-- <h1 align="center">Hola 👋, I'm Aryan Kumar Jha</h1> -->
-- 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning Artificial Intelligence.
-- 💞️ I’m looking to collaborate on making games.
-- 📫 You can reach me on my email "aryanjha256@gmail.com" for collaborations.
+<h1 align="center">Hola 👋, I'm Aryan Kumar Jha</h1>
+- 👀 I’m interested in Game Development. <br>
+- 🌱 I’m currently learning Artificial Intelligence. <br>
+- 💞️ I’m looking to collaborate on making games. <br>
+- 📫 You can reach me on my email "aryanjha256@gmail.com" for collaborations. <br>
 
 !!! 💢 This repository is just to introduce myself.
 <!---
