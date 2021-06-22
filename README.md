@@ -1,5 +1,5 @@
 <h4>💢 Read Alert</h4>
-<h1 align="center">Hola <img src="https://media.tenor.com/images/c44f474c9e5f6a56431e6d21d913805d/tenor.gif" alt="👋" height="35"/>, I'm Aryan Kumar Jha</h1>
+<h1 align="center">Hola <img src="https://media.tenor.com/images/c44f474c9e5f6a56431e6d21d913805d/tenor.gif" alt="👋" height="35"/>, I'm Aryan Kumar</h1>
 <hr>
 
 ![GitHub followers](https://img.shields.io/github/followers/aryanjha256?logo=GitHub&style=for-the-badge)
