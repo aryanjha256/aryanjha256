@@ -26,9 +26,9 @@
 
 
 <a href="https://github.com/aryanjha256">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjha256&layout=compact&hide=html" alt="aryanjha256" /></p>
+  <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjha256&layout=compact&hide=html" alt="aryanjha256" /></p>
 </a>
 <a href="https://github.com/aryanjha256">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanjha256&show_icons=true&theme=light&line_height=27" alt="aryanjha256"/>
+ <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=aryanjha256&show_icons=true&theme=light&line_height=27" alt="aryanjha256"/></p>
 </a>
 <h4 align="right">💢 This repository is just to introduce myself.</h4>
