@@ -10,16 +10,16 @@
   <li>🌱 I’m currently learning <strong>Artificial Intelligence</strong>.</li>
   <li>💬 Ask me about <strong>Python, JavaScript, ML, API</strong></li>
   <li>📫 You can reach me on my email <strong>"aryanjha256@gmail.com"</strong></li>
-  <li>👨‍💻 All of my projects are available at <strong><a href="https://itsaryan.me">Aryan Kumar</a></strong></li>
+  <li>👨‍💻 All of my projects are available at my <strong><a href="https://itsaryan.me">website</a></strong></li>
   <li>⚡ Fun Fact <strong>SandWich is way Better than Burger | Change my Mind</strong></li>
 </ul>
 
 <h3>Connect With Me :</h3>
 <hr />
 <p align="left">
-<a href="https://linkedin.com/in/aryanjha256" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="aryanjha256" height="30" /></a>
-<a href="https://twitter.com/aryanjha256" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" alt="aryanjha256" height="30" /></a>
-<a href="https://instagram.com/aryanjha256" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" alt="aryanjha256" height="30" /></a>
+<a href="https://linkedin.com/in/thearyankumar" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" /></a>
+<a href="https://twitter.com/aryanjha256" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" /></a>
+<a href="https://facebook.com/aryanjha256" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" height="30" /></a>
 </p>
 
 <h4>Languages and Tools :</h4>
@@ -41,7 +41,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" alt="gatsby" height="35" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/django.svg" alt="django" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" height="35" />
