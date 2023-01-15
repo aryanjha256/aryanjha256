@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/aryanjha256" target="blank"><img src="https://img.shields.io/github/followers/aryanjha256?logo=GitHub&style=for-the-badge" alt="aryanjha256" /> </a> </p>
 
 <ul>
-  <li>👀 I’m interested in <strong>API and Machine Learning</strong>.</li>
+  <li>👀 I’m interested in <strong>Machine Learning and Deep Learning</strong>.</li>
   <li>🌱 I’m currently learning <strong>Artificial Intelligence</strong>.</li>
   <li>💬 Ask me about <strong>Python, JavaScript, ML, API</strong></li>
   <li>📫 You can reach me on my email <strong>"aryanjha256@gmail.com"</strong></li>
