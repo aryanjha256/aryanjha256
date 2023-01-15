@@ -17,9 +17,9 @@
 <h3>Connect With Me :</h3>
 <hr />
 <p align="left">
-<a href="https://linkedin.com/in/thearyankumar" target="_blank"><img src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.3/icons/facebook.svg" alt="linkedin" height="30" /></a>
-<a href="https://twitter.com/aryanjha256" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" /></a>
-<a href="https://facebook.com/aryanjha256" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" height="30" /></a>
+<a href="https://linkedin.com/in/thearyankumar" target="_blank"><img src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.3/icons/linkedin.svg" alt="linkedin" height="30" /></a>
+<a href="https://twitter.com/aryanjha256" target="_blank"><img src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.3/icons/twitter.svg" alt="twitter" height="30" /></a>
+<a href="https://facebook.com/aryanjha256" target="_blank"><img src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.3/icons/facebook.svg" alt="facebook" height="30" /></a>
 </p>
 
 <h4>Languages and Tools :</h4>
