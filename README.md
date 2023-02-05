@@ -3,7 +3,9 @@
 <h3 align="center">Python & JavaScript Developer</h3>
 <hr />
 
-<p align="left"> <a href="https://github.com/aryanjha256" target="blank"><img src="https://img.shields.io/github/followers/aryanjha256?logo=GitHub&style=for-the-badge" alt="aryanjha256" /> </a> </p>
+<a href="https://github.com/aryanjha256" target="_blank"><img src="https://img.shields.io/github/followers/aryanjha256?logo=GitHub&style=for-the-badge" alt="aryanjha256" /> </a>
+<a href="https://github.com/aryanjha256" target="_blank"><img src="https://komarev.com/ghpvc/?username=aryanjha256&color=dc143c&style=for-the-badge&label=views" alt="aryanjha256" /> </a>
+
 
 <ul>
   <li>👀 I’m interested in <strong>Machine Learning and Deep Learning</strong>.</li>
