@@ -12,7 +12,7 @@
   <li>🌱 I’m currently learning <strong>Artificial Intelligence</strong>.</li>
   <li>💬 Ask me about <strong>Python, JavaScript, ML, API</strong></li>
   <li>📫 You can reach me on my email <strong>"aryanjha256@gmail.com"</strong></li>
-  <li>👨‍💻 All of my projects are available at my <strong><a href="https://itsaryan.me">website</a></strong></li>
+  <li>👨‍💻 All of my projects are available at my <strong><a href="https://portfolio-v1-kohl.vercel.app/">website</a></strong></li>
   <li>⚡ Fun Fact <strong>SandWich is way Better than Burger | Change my Mind</strong></li>
 </ul>
 
