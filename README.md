@@ -10,10 +10,10 @@
 <ul>
   <li>👀 I’m interested in <strong>Machine Learning and Deep Learning</strong>.</li>
   <li>🌱 I’m currently learning <strong>Artificial Intelligence</strong>.</li>
-  <li>💬 Ask me about <strong>Python, JavaScript, ML, API</strong></li>
+  <li>💬 Ask me about <strong>Python, JavaScript, ML, API</strong>.</li>
   <li>📫 You can reach me on my email <strong>"aryanjha256@gmail.com"</strong></li>
-  <li>👨‍💻 <strong><a href="https://personalwall.vercel.app/">Here</a></strong>is a glimpse of what I do</li>
-  <li>⚡ Fun Fact <strong>SandWich is way Better than Burger | Change my Mind</strong></li>
+  <li>👨‍💻 <strong><a href="https://personalwall.vercel.app/">Here</a></strong> is a glimpse of what I do.</li>
+  <li>⚡ Fun Fact <strong>SandWich is way Better than Burger | Change my Mind.</strong></li>
 </ul>
 
 <h3>Connect With Me :</h3>
