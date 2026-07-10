@@ -1,0 +1,29 @@
+on:
+  push:
+    branches: [main]
+    paths:
+      - scripts/**
+      - package.json
+      - package-lock.json
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm ci
+      - run: npm run generate
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: regenerate profile svg"
