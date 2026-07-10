@@ -1,36 +1,88 @@
 <svg width="551" height="504" viewBox="0 0 551 504" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="about-scanlines" width="3" height="3" patternUnits="userSpaceOnUse">
+      <rect width="3" height="1.4" fill="#000000" opacity="0.06"/>
+    </pattern>
+    <radialGradient id="about-vignette" cx="50%" cy="35%" r="75%">
+      <stop offset="0%" stop-color="#d1d5db" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#d1d5db" stop-opacity="0.12"/>
+    </radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
   <rect x="0" y="0" width="551" height="504" rx="12" fill="#ffffff" stroke="#d1d5db" stroke-width="1"/>
   <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
   <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
   <circle cx="64" cy="20" r="6" fill="#27c93f"/>
-  <text x="28" y="55.4" fill="#2563eb" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="600">aryan@kumar</text>
-  <text x="28" y="77.4" fill="#d1d5db" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">──────────────────────────────────────────────────────────</text>
-  <text x="28" y="121.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">OS</text>
-  <text x="178" y="121.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Ubuntu Linux</text>
-  <text x="28" y="143.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Shell</text>
-  <text x="178" y="143.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">zsh, bash</text>
-  <text x="28" y="165.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Editor</text>
-  <text x="178" y="165.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">WebStorm, VS Code</text>
-  <text x="28" y="187.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Terminal</text>
-  <text x="178" y="187.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Ghostty</text>
-  <text x="28" y="231.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Languages</text>
-  <text x="178" y="231.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">TypeScript, JavaScript, Python, SQL, Java</text>
-  <text x="28" y="253.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Frontend</text>
-  <text x="178" y="253.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">React, Next.js, Tailwind, Shadcn/UI</text>
-  <text x="28" y="275.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Mobile</text>
-  <text x="178" y="275.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">React Native</text>
-  <text x="28" y="297.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Backend</text>
-  <text x="178" y="297.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Node.js, Express, Prisma</text>
-  <text x="28" y="319.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Database</text>
-  <text x="178" y="319.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">PostgreSQL, Supabase, MongoDB</text>
-  <text x="28" y="341.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">DevOps</text>
-  <text x="178" y="341.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Docker, GitHub Actions, Nginx</text>
-  <text x="28" y="385.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Portfolio</text>
-  <text x="178" y="385.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">devaryan.com</text>
-  <text x="28" y="407.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">LinkedIn</text>
-  <text x="178" y="407.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">thearyankumar</text>
-  <text x="28" y="429.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Email</text>
-  <text x="178" y="429.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">aryanjha256@gmail.com</text>
-  <text x="28" y="473.4" fill="#15803d" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">aryan@kumar:~$</text>
-  <rect x="155.60000000000002" y="459.4" width="9" height="18" fill="#15803d"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1.2s" repeatCount="indefinite" /></rect>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.35s" fill="freeze"/>
+    <text x="28" y="55.4" fill="#2563eb" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="600" filter="url(#glow)">aryan@kumar</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.04s" dur="0.35s" fill="freeze"/>
+    <text x="28" y="77.4" fill="#d1d5db" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">──────────────────────────────────────────────────────────</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.09s" dur="0.35s" fill="freeze"/>
+    <text x="28" y="121.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">OS</text><text x="178" y="121.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Ubuntu Linux</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.14s" dur="0.35s" fill="freeze"/>
+    <text x="28" y="143.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Shell</text><text x="178" y="143.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">zsh, bash</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.18s" dur="0.35s" fill="freeze"/>
+    <text x="28" y="165.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Editor</text><text x="178" y="165.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">WebStorm, VS Code</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.22s" dur="0.35s" fill="freeze"/>
+    <text x="28" y="187.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Terminal</text><text x="178" y="187.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Ghostty</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.27s" dur="0.35s" fill="freeze"/>
+    <text x="28" y="231.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Languages</text><text x="178" y="231.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">TypeScript, JavaScript, Python, SQL, Java</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.35s" fill="freeze"/>
+    <text x="28" y="253.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Frontend</text><text x="178" y="253.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">React, Next.js, Tailwind, Shadcn/UI</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.35s" fill="freeze"/>
+    <text x="28" y="275.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Mobile</text><text x="178" y="275.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">React Native</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.35s" fill="freeze"/>
+    <text x="28" y="297.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Backend</text><text x="178" y="297.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Node.js, Express, Prisma</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.35s" fill="freeze"/>
+    <text x="28" y="319.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Database</text><text x="178" y="319.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">PostgreSQL, Supabase, MongoDB</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.49s" dur="0.35s" fill="freeze"/>
+    <text x="28" y="341.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">DevOps</text><text x="178" y="341.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Docker, GitHub Actions, Nginx</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.54s" dur="0.35s" fill="freeze"/>
+    <text x="28" y="385.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Portfolio</text><text x="178" y="385.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">devaryan.com</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.58s" dur="0.35s" fill="freeze"/>
+    <text x="28" y="407.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">LinkedIn</text><text x="178" y="407.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">thearyankumar</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.35s" fill="freeze"/>
+    <text x="28" y="429.4" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">Email</text><text x="178" y="429.4" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">aryanjha256@gmail.com</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.35s" fill="freeze"/>
+    <text x="28" y="473.4" fill="#15803d" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">aryan@kumar:~$</text><rect x="155.60000000000002" y="459.4" width="9" height="18" fill="#15803d"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1.2s" repeatCount="indefinite" /></rect>
+  </g>
+  <rect x="1" y="1" width="549" height="502" rx="11" fill="url(#about-vignette)"/>
+  <rect x="1" y="1" width="549" height="502" rx="11" fill="url(#about-scanlines)"/>
 </svg>

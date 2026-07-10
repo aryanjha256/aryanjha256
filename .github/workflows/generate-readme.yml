@@ -5,6 +5,8 @@ on:
       - scripts/**
       - package.json
       - package-lock.json
+  schedule:
+    - cron: "0 5 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -23,6 +25,8 @@ jobs:
 
       - run: npm ci
       - run: npm run generate
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
