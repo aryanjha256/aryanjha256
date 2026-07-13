@@ -50,7 +50,7 @@
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.35s" fill="freeze"/>
     <rect x="426.6666666666667" y="116" width="185.33333333333334" height="52" rx="8" fill="#d1d5db" fill-opacity="0.08" stroke="#d1d5db" stroke-opacity="0.4"/><rect x="438.6666666666667" y="136" width="16" height="12" rx="2" fill="none" stroke="#15803d" stroke-width="1.4"/>
-    <rect x="438.6666666666667" y="133" width="6.4" height="4" rx="1.5" fill="#15803d"/><text x="462.6666666666667" y="140" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="17" font-weight="700">63</text><text x="462.6666666666667" y="156" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="9.5" letter-spacing="1">REPOS</text>
+    <rect x="438.6666666666667" y="133" width="6.4" height="4" rx="1.5" fill="#15803d"/><text x="462.6666666666667" y="140" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="17" font-weight="700">64</text><text x="462.6666666666667" y="156" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="9.5" letter-spacing="1">REPOS</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.35s" fill="freeze"/>
@@ -59,7 +59,7 @@
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.35s" fill="freeze"/>
-    <rect x="227.33333333333334" y="178" width="185.33333333333334" height="52" rx="8" fill="#d1d5db" fill-opacity="0.08" stroke="#d1d5db" stroke-opacity="0.4"/><circle cx="247.33333333333334" cy="204" r="4.4" fill="#f97316"/><text x="263.33333333333337" y="202" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="17" font-weight="700">3d</text><text x="263.33333333333337" y="218" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="9.5" letter-spacing="1">STREAK</text>
+    <rect x="227.33333333333334" y="178" width="185.33333333333334" height="52" rx="8" fill="#d1d5db" fill-opacity="0.08" stroke="#d1d5db" stroke-opacity="0.4"/><circle cx="247.33333333333334" cy="204" r="4.4" fill="#f97316"/><text x="263.33333333333337" y="202" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="17" font-weight="700">5d</text><text x="263.33333333333337" y="218" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="9.5" letter-spacing="1">STREAK</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.50s" dur="0.35s" fill="freeze"/>
@@ -68,17 +68,16 @@
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.35s" fill="freeze"/>
-    <text x="28" y="260" fill="#d1d5db" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="11" letter-spacing="1.5" font-weight="600">CONTRIBUTIONS</text><text x="612" y="260" text-anchor="end" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="11">75 total</text>
+    <text x="28" y="260" fill="#d1d5db" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="11" letter-spacing="1.5" font-weight="600">CONTRIBUTIONS</text><text x="612" y="260" text-anchor="end" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="11">102 total</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.35s" fill="freeze"/>
     <rect x="28" y="274" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
-    <rect x="28" y="287" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
-    <rect x="28" y="300" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.4"/>
+    <rect x="28" y="287" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.4"/>
+    <rect x="28" y="300" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
     <rect x="28" y="313" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
     <rect x="28" y="326" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
     <rect x="28" y="339" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
-    <rect x="28" y="352" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
     <rect x="41" y="274" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
     <rect x="41" y="287" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
     <rect x="41" y="300" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
@@ -208,11 +207,12 @@
     <rect x="275" y="274" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
     <rect x="275" y="287" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
     <rect x="275" y="300" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
-    <rect x="275" y="313" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
-    <rect x="275" y="326" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
+    <rect x="275" y="313" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.6"/>
+    <rect x="275" y="326" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.8"/>
     <rect x="275" y="339" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.6"/>
-    <rect x="275" y="352" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.6"/>
-    <rect x="288" y="274" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.6"/>
+    <rect x="275" y="352" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.8"/>
+    <rect x="288" y="274" width="10" height="10" rx="2" fill="#15803d" fill-opacity="1"/>
+    <rect x="288" y="287" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.35s" fill="freeze"/>
@@ -220,7 +220,7 @@
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.35s" fill="freeze"/>
-    <clipPath id="lang-clip"><rect x="28" y="407" width="584" height="12" rx="6"/></clipPath><g clip-path="url(#lang-clip)"><rect x="28" y="407" width="216.9142857142857" height="12" fill="#3178c6"/><rect x="244.9142857142857" y="407" width="183.54285714285714" height="12" fill="#f1e05a"/><rect x="428.45714285714286" y="407" width="66.74285714285715" height="12" fill="#563d7c"/><rect x="495.2" y="407" width="66.74285714285715" height="12" fill="#3572A5"/><rect x="561.9428571428572" y="407" width="50.05714285714286" height="12" fill="#00B4AB"/></g>
+    <clipPath id="lang-clip"><rect x="28" y="407" width="584" height="12" rx="6"/></clipPath><g clip-path="url(#lang-clip)"><rect x="28" y="407" width="227.11111111111111" height="12" fill="#3178c6"/><rect x="255.11111111111111" y="407" width="178.44444444444446" height="12" fill="#f1e05a"/><rect x="433.55555555555554" y="407" width="64.88888888888889" height="12" fill="#563d7c"/><rect x="498.44444444444446" y="407" width="64.88888888888889" height="12" fill="#3572A5"/><rect x="563.3333333333334" y="407" width="48.666666666666664" height="12" fill="#00B4AB"/></g>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.35s" fill="freeze"/>
