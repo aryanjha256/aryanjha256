@@ -50,7 +50,7 @@
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.35s" fill="freeze"/>
     <rect x="426.6666666666667" y="116" width="185.33333333333334" height="52" rx="8" fill="#d1d5db" fill-opacity="0.08" stroke="#d1d5db" stroke-opacity="0.4"/><rect x="438.6666666666667" y="136" width="16" height="12" rx="2" fill="none" stroke="#15803d" stroke-width="1.4"/>
-    <rect x="438.6666666666667" y="133" width="6.4" height="4" rx="1.5" fill="#15803d"/><text x="462.6666666666667" y="140" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="17" font-weight="700">67</text><text x="462.6666666666667" y="156" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="9.5" letter-spacing="1">REPOS</text>
+    <rect x="438.6666666666667" y="133" width="6.4" height="4" rx="1.5" fill="#15803d"/><text x="462.6666666666667" y="140" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="17" font-weight="700">68</text><text x="462.6666666666667" y="156" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="9.5" letter-spacing="1">REPOS</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.35s" fill="freeze"/>
@@ -59,26 +59,25 @@
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.35s" fill="freeze"/>
-    <rect x="227.33333333333334" y="178" width="185.33333333333334" height="52" rx="8" fill="#d1d5db" fill-opacity="0.08" stroke="#d1d5db" stroke-opacity="0.4"/><circle cx="247.33333333333334" cy="204" r="4.4" fill="#f97316"/><text x="263.33333333333337" y="202" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="17" font-weight="700">25d</text><text x="263.33333333333337" y="218" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="9.5" letter-spacing="1">STREAK</text>
+    <rect x="227.33333333333334" y="178" width="185.33333333333334" height="52" rx="8" fill="#d1d5db" fill-opacity="0.08" stroke="#d1d5db" stroke-opacity="0.4"/><circle cx="247.33333333333334" cy="204" r="4.4" fill="#f97316"/><text x="263.33333333333337" y="202" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="17" font-weight="700">26d</text><text x="263.33333333333337" y="218" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="9.5" letter-spacing="1">STREAK</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.50s" dur="0.35s" fill="freeze"/>
     <rect x="426.6666666666667" y="178" width="185.33333333333334" height="52" rx="8" fill="#d1d5db" fill-opacity="0.08" stroke="#d1d5db" stroke-opacity="0.4"/><rect x="439.6666666666667" y="198" width="14" height="12" rx="2" fill="none" stroke="#15803d" stroke-width="1.4"/>
-    <line x1="439.6666666666667" y1="201.6" x2="453.6666666666667" y2="201.6" stroke="#15803d" stroke-width="1.2"/><text x="462.6666666666667" y="202" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="17" font-weight="700">5y 6mo</text><text x="462.6666666666667" y="218" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="9.5" letter-spacing="1">SINCE</text>
+    <line x1="439.6666666666667" y1="201.6" x2="453.6666666666667" y2="201.6" stroke="#15803d" stroke-width="1.2"/><text x="462.6666666666667" y="202" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="17" font-weight="700">5y 7mo</text><text x="462.6666666666667" y="218" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="9.5" letter-spacing="1">SINCE</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.35s" fill="freeze"/>
-    <text x="28" y="260" fill="#d1d5db" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="11" letter-spacing="1.5" font-weight="600">CONTRIBUTIONS</text><text x="612" y="260" text-anchor="end" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="11">143 total</text>
+    <text x="28" y="260" fill="#d1d5db" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="11" letter-spacing="1.5" font-weight="600">CONTRIBUTIONS</text><text x="612" y="260" text-anchor="end" fill="#92400e" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="11">157 total</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.35s" fill="freeze"/>
-    <rect x="28" y="274" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
-    <rect x="28" y="287" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.4"/>
+    <rect x="28" y="274" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.4"/>
+    <rect x="28" y="287" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
     <rect x="28" y="300" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
     <rect x="28" y="313" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
     <rect x="28" y="326" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
     <rect x="28" y="339" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
-    <rect x="28" y="352" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
     <rect x="41" y="274" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
     <rect x="41" y="287" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.6"/>
     <rect x="41" y="300" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.6"/>
@@ -209,10 +208,11 @@
     <rect x="275" y="287" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.6"/>
     <rect x="275" y="300" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.8"/>
     <rect x="275" y="313" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.6"/>
-    <rect x="275" y="326" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.4"/>
-    <rect x="275" y="339" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.4"/>
+    <rect x="275" y="326" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.6"/>
+    <rect x="275" y="339" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.8"/>
     <rect x="275" y="352" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.4"/>
-    <rect x="288" y="274" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
+    <rect x="288" y="274" width="10" height="10" rx="2" fill="#15803d" fill-opacity="0.6"/>
+    <rect x="288" y="287" width="10" height="10" rx="2" fill="#d1d5db" fill-opacity="0.35"/>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.35s" fill="freeze"/>
@@ -220,7 +220,7 @@
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.35s" fill="freeze"/>
-    <clipPath id="lang-clip"><rect x="28" y="407" width="584" height="12" rx="6"/></clipPath><g clip-path="url(#lang-clip)"><rect x="28" y="407" width="239.5897435897436" height="12" fill="#3178c6"/><rect x="267.5897435897436" y="407" width="179.6923076923077" height="12" fill="#f1e05a"/><rect x="447.28205128205127" y="407" width="59.8974358974359" height="12" fill="#563d7c"/><rect x="507.1794871794872" y="407" width="59.8974358974359" height="12" fill="#3572A5"/><rect x="567.0769230769231" y="407" width="44.92307692307693" height="12" fill="#00B4AB"/></g>
+    <clipPath id="lang-clip"><rect x="28" y="407" width="584" height="12" rx="6"/></clipPath><g clip-path="url(#lang-clip)"><rect x="28" y="407" width="233.60000000000002" height="12" fill="#3178c6"/><rect x="261.6" y="407" width="175.2" height="12" fill="#f1e05a"/><rect x="436.8" y="407" width="73" height="12" fill="#3572A5"/><rect x="509.8" y="407" width="58.400000000000006" height="12" fill="#563d7c"/><rect x="568.2" y="407" width="43.8" height="12" fill="#00B4AB"/></g>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.35s" fill="freeze"/>
@@ -228,12 +228,12 @@
     <text x="40" y="435" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="11">TypeScript</text>
     <circle cx="130" cy="431" r="4" fill="#f1e05a"/>
     <text x="138" y="435" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="11">JavaScript</text>
-    <circle cx="228" cy="431" r="4" fill="#563d7c"/>
-    <text x="236" y="435" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="11">CSS</text>
-    <circle cx="279.8" cy="431" r="4" fill="#3572A5"/>
-    <text x="287.8" y="435" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="11">Python</text>
-    <circle cx="351.4" cy="431" r="4" fill="#00B4AB"/>
-    <text x="359.4" y="435" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="11">Dart</text>
+    <circle cx="228" cy="431" r="4" fill="#3572A5"/>
+    <text x="236" y="435" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="11">Python</text>
+    <circle cx="299.6" cy="431" r="4" fill="#563d7c"/>
+    <text x="307.6" y="435" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="11">CSS</text>
+    <circle cx="351.40000000000003" cy="431" r="4" fill="#00B4AB"/>
+    <text x="359.40000000000003" y="435" fill="#111827" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace" font-size="11">Dart</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.35s" fill="freeze"/>
