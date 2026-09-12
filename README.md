@@ -13,11 +13,13 @@
 ### `git log --oneline`
 
 ```text
+<!-- START_GIT_LOG -->
 2026  building developer tools
 2025  figuring out systems
 2024  making the web do things
 2023  "I'll just make a small project"
 2022  mistake: it was not a small project
+<!-- END_GIT_LOG -->
 ```
 
 The rest is in the repositories.
