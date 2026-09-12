@@ -1,0 +1,39 @@
+name: Update profile README
+
+on:
+  schedule:
+    # Every day at 00:00 UTC
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Update git log
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GITHUB_USERNAME: aryanjha256
+        run: python scripts/update-readme.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet; then
+            echo "README is already up to date."
+            exit 0
+          fi
+
+          git add README.md
+          git commit -m "chore: update profile activity"
+          git push
