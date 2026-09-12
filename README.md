@@ -12,7 +12,6 @@
 
 ### `git log --oneline`
 
-```text
 <!-- START_GIT_LOG -->
 
 ```text
@@ -29,7 +28,6 @@
 ```
 
 <!-- END_GIT_LOG -->
-```
 
 The rest is in the repositories.
 
