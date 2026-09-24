@@ -15,16 +15,16 @@
 <!-- START_GIT_LOG -->
 
 ```text
+2026-09-24  zuno             chore: keep shell scripts out of GitHub's language stats
+2026-09-24  zuno             feat: cookie viewer and single cookie jar
+2026-09-24  zuno             release 0.4.4
+2026-09-24  zuno             feat: copy as code
+2026-09-24  zuno             feat: redesign the gRPC Method tab, show GRPC in the side panel, an...
+2026-09-24  zuno             fix: a streaming gRPC send no longer empties the request's saved me...
+2026-09-24  zuno             release 0.4.3
+2026-09-24  zuno             zuno now supports gRPC - all 4 shapes
 2026-09-21  zuno             fix: a session can no longer read open when it isn't, and ping is r...
 2026-09-21  zuno             release 0.4.2
-2026-09-21  zuno             zuno now supports SSE, graphql-sse and graphql-transport-ws
-2026-09-20  zuno             release 0.4.1
-2026-09-20  zuno             zuno now supports websockets
-2026-09-20  zuno             chore: collection panel animates
-2026-09-20  zuno             fix: Palette labels are HTTP vocabulary for graphql
-2026-09-20  zuno             release 0.4.0
-2026-09-20  zuno             export as zuno bundle
-2026-09-19  zuno             chore: save at home instead of workspace root
 ```
 
 <!-- END_GIT_LOG -->
