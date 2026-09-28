@@ -15,16 +15,16 @@
 <!-- START_GIT_LOG -->
 
 ```text
+2026-09-29  zuno             fix: brace  before the ellipsis, which bash 3.2 read as part of the...
+2026-09-29  zuno             ci: show the installer's error when the macOS or tarball test fails
+2026-09-29  zuno             feat: Zuno.app for Apple Silicon, installed by install.sh into /App...
+2026-09-29  zuno             feat: native traffic lights in the macOS titlebar
+2026-09-28  zuno             test: expect Mac key spellings on the macOS runner
 2026-09-28  zuno             feat: macOS paths in Application Support, and Mac shortcuts on ⌘
 2026-09-28  zuno             feat: ship an AppImage, and document the three Linux formats
 2026-09-28  zuno             ci: install util-linux in the Fedora jobs, which ships su
 2026-09-28  zuno             feat: a tarball for every Linux without apt, installed by install.s...
 2026-09-25  zuno             ci: run the build and tests on macOS and Windows as well as Linux
-2026-09-25  zuno             fix: flow steps are stored with / on every platform, and the runner...
-2026-09-25  zuno             fix: grpcurl tests build expected paths the way the platform does
-2026-09-24  zuno             fix: keybinding tests use gpui's syntax, and trash builds on Windows
-2026-09-24  zuno             ci: add a manual macOS and Windows portability workflow
-2026-09-24  zuno             chore: keep shell scripts out of GitHub's language stats
 ```
 
 <!-- END_GIT_LOG -->
