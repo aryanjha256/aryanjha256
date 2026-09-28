@@ -15,6 +15,7 @@
 <!-- START_GIT_LOG -->
 
 ```text
+2026-09-28  zuno             feat: macOS paths in Application Support, and Mac shortcuts on ⌘
 2026-09-28  zuno             feat: ship an AppImage, and document the three Linux formats
 2026-09-28  zuno             ci: install util-linux in the Fedora jobs, which ships su
 2026-09-28  zuno             feat: a tarball for every Linux without apt, installed by install.s...
@@ -24,7 +25,6 @@
 2026-09-24  zuno             fix: keybinding tests use gpui's syntax, and trash builds on Windows
 2026-09-24  zuno             ci: add a manual macOS and Windows portability workflow
 2026-09-24  zuno             chore: keep shell scripts out of GitHub's language stats
-2026-09-24  zuno             feat: cookie viewer and single cookie jar
 ```
 
 <!-- END_GIT_LOG -->
