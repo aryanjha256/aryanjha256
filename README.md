@@ -15,6 +15,7 @@
 <!-- START_GIT_LOG -->
 
 ```text
+2026-10-04  zuno             release 0.4.8
 2026-09-30  zuno             feat: suggest header values for their header
 2026-09-30  zuno             fix: import modal names every format it reads
 2026-09-30  zuno             feat: import OpenAPI specs written in YAML
@@ -24,7 +25,6 @@
 2026-09-30  zuno             feat: send a file as a binary WebSocket frame
 2026-09-30  zuno             fix: find in a GraphQL request searches the tab it was opened from
 2026-09-30  zuno             release 0.4.6
-2026-09-30  zuno             style: schema browser starts flush under its divider
 ```
 
 <!-- END_GIT_LOG -->
