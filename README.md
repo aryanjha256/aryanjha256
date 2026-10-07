@@ -15,6 +15,7 @@
 <!-- START_GIT_LOG -->
 
 ```text
+2026-10-07  zuno             ui: picker and palette polish — real placeholders, kind-aware palet...
 2026-10-06  zuno             ui: request actions — Save plus a ⋯ menu for copy as code, import f...
 2026-10-06  zuno             release 0.5.1
 2026-10-06  zuno             updated kind icons
@@ -24,7 +25,6 @@
 2026-10-05  zuno             fix: status bar says No environment instead of none
 2026-10-05  zuno             release 0.5.0
 2026-10-05  zuno             feat: {{ completion for variable names, and variable hover in editors
-2026-10-04  zuno             feat: highlight {{variables}} by whether they resolve, with a hover...
 ```
 
 <!-- END_GIT_LOG -->
