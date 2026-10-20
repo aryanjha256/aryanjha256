@@ -15,16 +15,16 @@
 <!-- START_GIT_LOG -->
 
 ```text
+2026-10-21  zuno             fix: animated GIF responses play instead of showing their first frame
+2026-10-20  zuno             fix: image previews refuse oversized images from their header, and ...
+2026-10-20  zuno             feat: image responses show as the picture, with a toggle to the bytes
+2026-10-20  zuno             feat: empty collection shows Save and Import buttons with their sho...
+2026-10-20  zuno             feat: response line numbers stay pinned while the body scrolls side...
+2026-10-20  zuno             perf: indent guides capped at the 32 deepest levels per row
+2026-10-20  zuno             feat: response body shows line numbers, indent guides and depth-col...
 2026-10-20  zuno             fix: Windows memory reading falls back to private bytes when the pr...
 2026-10-19  zuno             release 0.5.8
 2026-10-19  zuno             fix: shortcuts sheet scrolls and fits short windows
-2026-10-19  zuno             feat: keyboard shortcuts sheet with search, opened with Ctrl+/
-2026-10-19  zuno             feat: performance monitor reads CPU and memory on macOS and Windows
-2026-10-19  zuno             feat: performance monitor with CPU, memory, FPS, frame time, backgr...
-2026-10-19  zuno             ui: release notes without em dashes, Retry on failed response saves...
-2026-10-19  zuno             feat: Ctrl+P treats spaces as separating words, matched in any order
-2026-10-19  zuno             release 0.5.7
-2026-10-19  zuno             docs: changelog Unreleased section as one line per change
 ```
 
 <!-- END_GIT_LOG -->
