@@ -15,6 +15,7 @@
 <!-- START_GIT_LOG -->
 
 ```text
+2026-10-20  zuno             fix: Windows memory reading falls back to private bytes when the pr...
 2026-10-19  zuno             release 0.5.8
 2026-10-19  zuno             fix: shortcuts sheet scrolls and fits short windows
 2026-10-19  zuno             feat: keyboard shortcuts sheet with search, opened with Ctrl+/
@@ -24,7 +25,6 @@
 2026-10-19  zuno             feat: Ctrl+P treats spaces as separating words, matched in any order
 2026-10-19  zuno             release 0.5.7
 2026-10-19  zuno             docs: changelog Unreleased section as one line per change
-2026-10-19  zuno             fix: an unsaved tab restored after a restart or workspace switch co...
 ```
 
 <!-- END_GIT_LOG -->
